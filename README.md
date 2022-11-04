@@ -3,7 +3,7 @@ I study Bioinformatics at Charles University as an undergraduate & I'm C++/pytho
 
 I'm currently focusing on 
   1. simulation engine development for coarse-grained protein models /w Lucie Nova (https://physchem.cz/research/soft-matter-theory/),
-  2. docking simulations on SARS-CoV-2 helicase nsp13 in all-atomic resolution /w Martin Lepsik and a team from our uni (bioinfo4eu.unimi.it/2022-23-meet-eu-course/).
+  2. docking simulations on SARS-CoV-2 helicase nsp13 in all-atomic resolution /w Martin Lepsik and a team from our uni (https://bioinfo4eu.unimi.it/2022-23-meet-eu-course/).
 
 I’m looking to collaborate on multiomics & microbiome research projects.
 

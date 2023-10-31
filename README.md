@@ -1,5 +1,5 @@
 Hi, I'm Ema/k3rber0s!
-I study Bioinformatics at Charles University as an undergraduate & I'm C++/python developer. 
+I study Bioinformatics at University of Copenhagen & I'm C++/python developer. 
 
 I'm currently focusing on 
   1. simulation engine development for coarse-grained protein models /w Lucie Nova (https://physchem.cz/research/soft-matter-theory/),
